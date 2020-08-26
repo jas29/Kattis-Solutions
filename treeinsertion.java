@@ -1,5 +1,4 @@
 // JASKAREN SAINI
-// UVIC ID - V00877182
 import java.util.*;
 import java.math.*;
 public class treeinsertion
